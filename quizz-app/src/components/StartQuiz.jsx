@@ -97,7 +97,7 @@ const StartQuiz = () => {
                 {status}
               </h3>
               <h1 className="text-2xl font-bold my-2 flex items-center justify-center ">
-                {score * 10} <span className="font-display text-xl ">/60</span>
+                {score * 10} <span className="font-display text-xl ">/80</span>
               </h1>
               <p className="font-display border border-gray-200 p-2 rounded-sm text-sm">
                 Total Time :{" "}
